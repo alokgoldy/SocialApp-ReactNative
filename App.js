@@ -36,7 +36,7 @@ export default createAppContainer(
         {
             Loading: LoadingScreen,
             App : AppStack,
-            Auth: AuthStack
+            Auth: AuthStack,
         },
         {
             initialRouteName: "Loading"
